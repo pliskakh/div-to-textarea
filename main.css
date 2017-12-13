@@ -1,0 +1,14 @@
+.ba-editor__view,
+.ba-editor__text{
+    padding: 5px;
+    width: 300px;
+    font-size: 12px;
+}
+
+.ba-editor__view {
+    border: 1px solid black;
+}
+
+.ba-editor__text:focus {
+    outline: 1px dotted black;
+}
